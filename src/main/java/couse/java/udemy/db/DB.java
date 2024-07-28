@@ -1,6 +1,6 @@
 package couse.java.udemy.db;
 
-import couse.java.udemy.exceptions.DbException;
+import couse.java.udemy.db.exceptions.DbException;
 
 import java.io.FileInputStream;
 import java.io.IOException;

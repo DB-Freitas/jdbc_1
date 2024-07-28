@@ -1,4 +1,4 @@
-package couse.java.udemy.exceptions;
+package couse.java.udemy.db.exceptions;
 
 public class DbException extends RuntimeException{
 
